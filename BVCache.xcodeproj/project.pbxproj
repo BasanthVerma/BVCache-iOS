@@ -11,30 +11,18 @@
 		115645E71E3F4E70001797ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 115645E61E3F4E70001797ED /* Assets.xcassets */; };
 		115645EA1E3F4E70001797ED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 115645E81E3F4E70001797ED /* LaunchScreen.storyboard */; };
 		115645F51E3F4E70001797ED /* BVCacheTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 115645F41E3F4E70001797ED /* BVCacheTests.m */; };
-		115646251E3F4E94001797ED /* UIImageView+CachedImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 115646001E3F4E94001797ED /* UIImageView+CachedImage.m */; };
-		115646261E3F4E94001797ED /* UIImageView+CachedImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 115646001E3F4E94001797ED /* UIImageView+CachedImage.m */; };
-		115646271E3F4E94001797ED /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 115646031E3F4E94001797ED /* Reachability.m */; };
-		115646281E3F4E94001797ED /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 115646031E3F4E94001797ED /* Reachability.m */; };
-		115646291E3F4E94001797ED /* NetworkModelManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 115646061E3F4E94001797ED /* NetworkModelManager.m */; };
-		1156462A1E3F4E94001797ED /* NetworkModelManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 115646061E3F4E94001797ED /* NetworkModelManager.m */; };
-		1156462B1E3F4E94001797ED /* NetworkModelOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 115646081E3F4E94001797ED /* NetworkModelOperation.m */; };
-		1156462C1E3F4E94001797ED /* NetworkModelOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 115646081E3F4E94001797ED /* NetworkModelOperation.m */; };
-		115646311E3F4E94001797ED /* ListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 115646121E3F4E94001797ED /* ListViewController.m */; };
-		115646321E3F4E94001797ED /* ListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 115646121E3F4E94001797ED /* ListViewController.m */; };
-		115646331E3F4E94001797ED /* ListView.m in Sources */ = {isa = PBXBuildFile; fileRef = 115646141E3F4E94001797ED /* ListView.m */; };
-		115646341E3F4E94001797ED /* ListView.m in Sources */ = {isa = PBXBuildFile; fileRef = 115646141E3F4E94001797ED /* ListView.m */; };
-		115646351E3F4E94001797ED /* BVCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 115646181E3F4E94001797ED /* BVCache.m */; };
-		115646361E3F4E94001797ED /* BVCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 115646181E3F4E94001797ED /* BVCache.m */; };
-		115646371E3F4E94001797ED /* FileFetchOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 1156461B1E3F4E94001797ED /* FileFetchOperation.m */; };
-		115646381E3F4E94001797ED /* FileFetchOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 1156461B1E3F4E94001797ED /* FileFetchOperation.m */; };
-		115646391E3F4E94001797ED /* FileFetchService.m in Sources */ = {isa = PBXBuildFile; fileRef = 1156461D1E3F4E94001797ED /* FileFetchService.m */; };
-		1156463A1E3F4E94001797ED /* FileFetchService.m in Sources */ = {isa = PBXBuildFile; fileRef = 1156461D1E3F4E94001797ED /* FileFetchService.m */; };
-		1156463B1E3F4E94001797ED /* BVAyscDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = 115646201E3F4E94001797ED /* BVAyscDownloader.m */; };
-		1156463C1E3F4E94001797ED /* BVAyscDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = 115646201E3F4E94001797ED /* BVAyscDownloader.m */; };
-		1156463F1E3F4E94001797ED /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 115646241E3F4E94001797ED /* AppDelegate.m */; };
-		115646401E3F4E94001797ED /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 115646241E3F4E94001797ED /* AppDelegate.m */; };
-		115646421E3F4EF8001797ED /* BVOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 115646411E3F4EF8001797ED /* BVOperation.m */; };
-		115646431E3F4EF8001797ED /* BVOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 115646411E3F4EF8001797ED /* BVOperation.m */; };
+		1156464B1E3F819B001797ED /* UIImageView+CachedImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 1156464A1E3F819B001797ED /* UIImageView+CachedImage.m */; };
+		1156464E1E3F81A7001797ED /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 1156464D1E3F81A7001797ED /* Reachability.m */; };
+		115646531E3F81B7001797ED /* NetworkModelManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 115646501E3F81B7001797ED /* NetworkModelManager.m */; };
+		115646541E3F81B7001797ED /* NetworkModelOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 115646521E3F81B7001797ED /* NetworkModelOperation.m */; };
+		115646581E3F81CC001797ED /* BVOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 115646571E3F81CC001797ED /* BVOperation.m */; };
+		1156465D1E3F81DD001797ED /* ListView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1156465A1E3F81DD001797ED /* ListView.m */; };
+		1156465E1E3F81DD001797ED /* ListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1156465C1E3F81DD001797ED /* ListViewController.m */; };
+		115646611E3F81EC001797ED /* BVCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 115646601E3F81EC001797ED /* BVCache.m */; };
+		115646641E3F81FB001797ED /* BVAyscDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = 115646631E3F81FB001797ED /* BVAyscDownloader.m */; };
+		115646691E3F8214001797ED /* FileFetchOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 115646661E3F8214001797ED /* FileFetchOperation.m */; };
+		1156466A1E3F8214001797ED /* FileFetchService.m in Sources */ = {isa = PBXBuildFile; fileRef = 115646681E3F8214001797ED /* FileFetchService.m */; };
+		1156466D1E3F8228001797ED /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1156466C1E3F8228001797ED /* AppDelegate.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,32 +44,32 @@
 		115645F01E3F4E70001797ED /* BVCacheTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BVCacheTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		115645F41E3F4E70001797ED /* BVCacheTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BVCacheTests.m; sourceTree = "<group>"; };
 		115645F61E3F4E70001797ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		115645FF1E3F4E94001797ED /* UIImageView+CachedImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+CachedImage.h"; sourceTree = "<group>"; };
-		115646001E3F4E94001797ED /* UIImageView+CachedImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+CachedImage.m"; sourceTree = "<group>"; };
-		115646021E3F4E94001797ED /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
-		115646031E3F4E94001797ED /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
-		115646051E3F4E94001797ED /* NetworkModelManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NetworkModelManager.h; sourceTree = "<group>"; };
-		115646061E3F4E94001797ED /* NetworkModelManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NetworkModelManager.m; sourceTree = "<group>"; };
-		115646071E3F4E94001797ED /* NetworkModelOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = NetworkModelOperation.h; sourceTree = "<group>"; };
-		115646081E3F4E94001797ED /* NetworkModelOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = NetworkModelOperation.m; sourceTree = "<group>"; };
-		1156460B1E3F4E94001797ED /* BVOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = BVOperation.h; sourceTree = "<group>"; };
-		115646111E3F4E94001797ED /* ListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ListViewController.h; sourceTree = "<group>"; };
-		115646121E3F4E94001797ED /* ListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ListViewController.m; sourceTree = "<group>"; };
-		115646131E3F4E94001797ED /* ListView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ListView.h; sourceTree = "<group>"; };
-		115646141E3F4E94001797ED /* ListView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = ListView.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
-		115646171E3F4E94001797ED /* BVCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BVCache.h; sourceTree = "<group>"; };
-		115646181E3F4E94001797ED /* BVCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BVCache.m; sourceTree = "<group>"; };
-		1156461A1E3F4E94001797ED /* FileFetchOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = FileFetchOperation.h; sourceTree = "<group>"; };
-		1156461B1E3F4E94001797ED /* FileFetchOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FileFetchOperation.m; sourceTree = "<group>"; };
-		1156461C1E3F4E94001797ED /* FileFetchService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FileFetchService.h; sourceTree = "<group>"; };
-		1156461D1E3F4E94001797ED /* FileFetchService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FileFetchService.m; sourceTree = "<group>"; };
-		1156461F1E3F4E94001797ED /* BVAyscDownloader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = BVAyscDownloader.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
-		115646201E3F4E94001797ED /* BVAyscDownloader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = BVAyscDownloader.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
-		115646231E3F4E94001797ED /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = ../../../../Downloads/MVCache/MVCache/AppDelegate.h; sourceTree = "<group>"; };
-		115646241E3F4E94001797ED /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; name = AppDelegate.m; path = ../../../../Downloads/MVCache/MVCache/AppDelegate.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
-		115646411E3F4EF8001797ED /* BVOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BVOperation.m; sourceTree = "<group>"; };
-		115646451E3F4F51001797ED /* AppCommons.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppCommons.h; sourceTree = "<group>"; };
 		115646481E3F7282001797ED /* PrefixHeader.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		115646491E3F819B001797ED /* UIImageView+CachedImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIImageView+CachedImage.h"; path = "BVCache/UIImageView+CachedImage.h"; sourceTree = SOURCE_ROOT; };
+		1156464A1E3F819B001797ED /* UIImageView+CachedImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIImageView+CachedImage.m"; path = "BVCache/UIImageView+CachedImage.m"; sourceTree = SOURCE_ROOT; };
+		1156464C1E3F81A7001797ED /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Reachability.h; path = BVCache/Reachability.h; sourceTree = SOURCE_ROOT; };
+		1156464D1E3F81A7001797ED /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Reachability.m; path = BVCache/Reachability.m; sourceTree = SOURCE_ROOT; };
+		1156464F1E3F81B7001797ED /* NetworkModelManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NetworkModelManager.h; path = BVCache/NetworkModelManager.h; sourceTree = SOURCE_ROOT; };
+		115646501E3F81B7001797ED /* NetworkModelManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NetworkModelManager.m; path = BVCache/NetworkModelManager.m; sourceTree = SOURCE_ROOT; };
+		115646511E3F81B7001797ED /* NetworkModelOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NetworkModelOperation.h; path = BVCache/NetworkModelOperation.h; sourceTree = SOURCE_ROOT; };
+		115646521E3F81B7001797ED /* NetworkModelOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NetworkModelOperation.m; path = BVCache/NetworkModelOperation.m; sourceTree = SOURCE_ROOT; };
+		115646551E3F81CC001797ED /* AppCommons.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppCommons.h; path = BVCache/AppCommons.h; sourceTree = SOURCE_ROOT; };
+		115646561E3F81CC001797ED /* BVOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BVOperation.h; path = BVCache/BVOperation.h; sourceTree = SOURCE_ROOT; };
+		115646571E3F81CC001797ED /* BVOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BVOperation.m; path = BVCache/BVOperation.m; sourceTree = SOURCE_ROOT; };
+		115646591E3F81DD001797ED /* ListView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ListView.h; path = BVCache/ListView.h; sourceTree = SOURCE_ROOT; };
+		1156465A1E3F81DD001797ED /* ListView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ListView.m; path = BVCache/ListView.m; sourceTree = SOURCE_ROOT; };
+		1156465B1E3F81DD001797ED /* ListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ListViewController.h; path = BVCache/ListViewController.h; sourceTree = SOURCE_ROOT; };
+		1156465C1E3F81DD001797ED /* ListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ListViewController.m; path = BVCache/ListViewController.m; sourceTree = SOURCE_ROOT; };
+		1156465F1E3F81EC001797ED /* BVCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BVCache.h; path = BVCache/BVCache.h; sourceTree = SOURCE_ROOT; };
+		115646601E3F81EC001797ED /* BVCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BVCache.m; path = BVCache/BVCache.m; sourceTree = SOURCE_ROOT; };
+		115646621E3F81FB001797ED /* BVAyscDownloader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BVAyscDownloader.h; path = BVCache/BVAyscDownloader.h; sourceTree = SOURCE_ROOT; };
+		115646631E3F81FB001797ED /* BVAyscDownloader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BVAyscDownloader.m; path = BVCache/BVAyscDownloader.m; sourceTree = SOURCE_ROOT; };
+		115646651E3F8214001797ED /* FileFetchOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FileFetchOperation.h; path = BVCache/FileFetchOperation.h; sourceTree = SOURCE_ROOT; };
+		115646661E3F8214001797ED /* FileFetchOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FileFetchOperation.m; path = BVCache/FileFetchOperation.m; sourceTree = SOURCE_ROOT; };
+		115646671E3F8214001797ED /* FileFetchService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FileFetchService.h; path = BVCache/FileFetchService.h; sourceTree = SOURCE_ROOT; };
+		115646681E3F8214001797ED /* FileFetchService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FileFetchService.m; path = BVCache/FileFetchService.m; sourceTree = SOURCE_ROOT; };
+		1156466B1E3F8228001797ED /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		1156466C1E3F8228001797ED /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,8 +118,8 @@
 				115646161E3F4E94001797ED /* Demo */,
 				115646191E3F4E94001797ED /* Cacher */,
 				115646211E3F4E94001797ED /* Downloader */,
-				115646231E3F4E94001797ED /* AppDelegate.h */,
-				115646241E3F4E94001797ED /* AppDelegate.m */,
+				1156466B1E3F8228001797ED /* AppDelegate.h */,
+				1156466C1E3F8228001797ED /* AppDelegate.m */,
 				115645E61E3F4E70001797ED /* Assets.xcassets */,
 				115645E81E3F4E70001797ED /* LaunchScreen.storyboard */,
 				115645EB1E3F4E70001797ED /* Info.plist */,
@@ -161,8 +149,8 @@
 		115646011E3F4E94001797ED /* Category */ = {
 			isa = PBXGroup;
 			children = (
-				115645FF1E3F4E94001797ED /* UIImageView+CachedImage.h */,
-				115646001E3F4E94001797ED /* UIImageView+CachedImage.m */,
+				115646491E3F819B001797ED /* UIImageView+CachedImage.h */,
+				1156464A1E3F819B001797ED /* UIImageView+CachedImage.m */,
 			);
 			name = Category;
 			path = ../../../../Downloads/MVCache/MVCache;
@@ -171,8 +159,8 @@
 		115646041E3F4E94001797ED /* 3rd Party */ = {
 			isa = PBXGroup;
 			children = (
-				115646021E3F4E94001797ED /* Reachability.h */,
-				115646031E3F4E94001797ED /* Reachability.m */,
+				1156464C1E3F81A7001797ED /* Reachability.h */,
+				1156464D1E3F81A7001797ED /* Reachability.m */,
 			);
 			name = "3rd Party";
 			path = ../../../../Downloads/MVCache/MVCache;
@@ -181,10 +169,10 @@
 		115646091E3F4E94001797ED /* Network */ = {
 			isa = PBXGroup;
 			children = (
-				115646051E3F4E94001797ED /* NetworkModelManager.h */,
-				115646061E3F4E94001797ED /* NetworkModelManager.m */,
-				115646071E3F4E94001797ED /* NetworkModelOperation.h */,
-				115646081E3F4E94001797ED /* NetworkModelOperation.m */,
+				1156464F1E3F81B7001797ED /* NetworkModelManager.h */,
+				115646501E3F81B7001797ED /* NetworkModelManager.m */,
+				115646511E3F81B7001797ED /* NetworkModelOperation.h */,
+				115646521E3F81B7001797ED /* NetworkModelOperation.m */,
 			);
 			name = Network;
 			path = ../../../../Downloads/MVCache/MVCache;
@@ -193,9 +181,9 @@
 		1156460D1E3F4E94001797ED /* Commons */ = {
 			isa = PBXGroup;
 			children = (
-				115646451E3F4F51001797ED /* AppCommons.h */,
-				1156460B1E3F4E94001797ED /* BVOperation.h */,
-				115646411E3F4EF8001797ED /* BVOperation.m */,
+				115646551E3F81CC001797ED /* AppCommons.h */,
+				115646561E3F81CC001797ED /* BVOperation.h */,
+				115646571E3F81CC001797ED /* BVOperation.m */,
 			);
 			name = Commons;
 			path = ../../../../Downloads/MVCache/MVCache;
@@ -204,10 +192,10 @@
 		115646151E3F4E94001797ED /* List View */ = {
 			isa = PBXGroup;
 			children = (
-				115646111E3F4E94001797ED /* ListViewController.h */,
-				115646121E3F4E94001797ED /* ListViewController.m */,
-				115646131E3F4E94001797ED /* ListView.h */,
-				115646141E3F4E94001797ED /* ListView.m */,
+				115646591E3F81DD001797ED /* ListView.h */,
+				1156465A1E3F81DD001797ED /* ListView.m */,
+				1156465B1E3F81DD001797ED /* ListViewController.h */,
+				1156465C1E3F81DD001797ED /* ListViewController.m */,
 			);
 			name = "List View";
 			sourceTree = "<group>";
@@ -224,8 +212,8 @@
 		115646191E3F4E94001797ED /* Cacher */ = {
 			isa = PBXGroup;
 			children = (
-				115646171E3F4E94001797ED /* BVCache.h */,
-				115646181E3F4E94001797ED /* BVCache.m */,
+				1156465F1E3F81EC001797ED /* BVCache.h */,
+				115646601E3F81EC001797ED /* BVCache.m */,
 			);
 			name = Cacher;
 			path = ../../../../Downloads/MVCache/MVCache;
@@ -234,10 +222,10 @@
 		1156461E1E3F4E94001797ED /* Download Queue */ = {
 			isa = PBXGroup;
 			children = (
-				1156461A1E3F4E94001797ED /* FileFetchOperation.h */,
-				1156461B1E3F4E94001797ED /* FileFetchOperation.m */,
-				1156461C1E3F4E94001797ED /* FileFetchService.h */,
-				1156461D1E3F4E94001797ED /* FileFetchService.m */,
+				115646651E3F8214001797ED /* FileFetchOperation.h */,
+				115646661E3F8214001797ED /* FileFetchOperation.m */,
+				115646671E3F8214001797ED /* FileFetchService.h */,
+				115646681E3F8214001797ED /* FileFetchService.m */,
 			);
 			name = "Download Queue";
 			sourceTree = "<group>";
@@ -246,8 +234,8 @@
 			isa = PBXGroup;
 			children = (
 				1156461E1E3F4E94001797ED /* Download Queue */,
-				1156461F1E3F4E94001797ED /* BVAyscDownloader.h */,
-				115646201E3F4E94001797ED /* BVAyscDownloader.m */,
+				115646621E3F81FB001797ED /* BVAyscDownloader.h */,
+				115646631E3F81FB001797ED /* BVAyscDownloader.m */,
 			);
 			name = Downloader;
 			path = ../../../../Downloads/MVCache/MVCache;
@@ -356,19 +344,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				115646311E3F4E94001797ED /* ListViewController.m in Sources */,
-				115646291E3F4E94001797ED /* NetworkModelManager.m in Sources */,
-				1156463B1E3F4E94001797ED /* BVAyscDownloader.m in Sources */,
-				115646391E3F4E94001797ED /* FileFetchService.m in Sources */,
-				115646351E3F4E94001797ED /* BVCache.m in Sources */,
-				115646371E3F4E94001797ED /* FileFetchOperation.m in Sources */,
-				1156462B1E3F4E94001797ED /* NetworkModelOperation.m in Sources */,
-				115646331E3F4E94001797ED /* ListView.m in Sources */,
-				115646251E3F4E94001797ED /* UIImageView+CachedImage.m in Sources */,
-				1156463F1E3F4E94001797ED /* AppDelegate.m in Sources */,
+				115646691E3F8214001797ED /* FileFetchOperation.m in Sources */,
+				115646531E3F81B7001797ED /* NetworkModelManager.m in Sources */,
+				1156465E1E3F81DD001797ED /* ListViewController.m in Sources */,
+				115646581E3F81CC001797ED /* BVOperation.m in Sources */,
+				1156465D1E3F81DD001797ED /* ListView.m in Sources */,
+				115646541E3F81B7001797ED /* NetworkModelOperation.m in Sources */,
+				1156466D1E3F8228001797ED /* AppDelegate.m in Sources */,
+				1156466A1E3F8214001797ED /* FileFetchService.m in Sources */,
+				115646611E3F81EC001797ED /* BVCache.m in Sources */,
+				1156464B1E3F819B001797ED /* UIImageView+CachedImage.m in Sources */,
+				115646641E3F81FB001797ED /* BVAyscDownloader.m in Sources */,
+				1156464E1E3F81A7001797ED /* Reachability.m in Sources */,
 				115645DC1E3F4E6F001797ED /* main.m in Sources */,
-				115646421E3F4EF8001797ED /* BVOperation.m in Sources */,
-				115646271E3F4E94001797ED /* Reachability.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -376,19 +364,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1156463A1E3F4E94001797ED /* FileFetchService.m in Sources */,
-				115646261E3F4E94001797ED /* UIImageView+CachedImage.m in Sources */,
-				1156463C1E3F4E94001797ED /* BVAyscDownloader.m in Sources */,
-				115646361E3F4E94001797ED /* BVCache.m in Sources */,
-				115646321E3F4E94001797ED /* ListViewController.m in Sources */,
-				1156462C1E3F4E94001797ED /* NetworkModelOperation.m in Sources */,
-				115646381E3F4E94001797ED /* FileFetchOperation.m in Sources */,
-				115646341E3F4E94001797ED /* ListView.m in Sources */,
-				115646281E3F4E94001797ED /* Reachability.m in Sources */,
-				1156462A1E3F4E94001797ED /* NetworkModelManager.m in Sources */,
 				115645F51E3F4E70001797ED /* BVCacheTests.m in Sources */,
-				115646431E3F4EF8001797ED /* BVOperation.m in Sources */,
-				115646401E3F4E94001797ED /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
